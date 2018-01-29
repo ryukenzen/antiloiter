@@ -1,7 +1,14 @@
 DESCRIPTION
 =============
 
-This is the repository to host the dataset used in the AntiLoiter paper that was published at ACM Multimedia 2016.
+This is the repository to host the dataset used in the **AntiLoiter** paper that was published at ACM Multimedia 2016 [2].
+
+Thumb of the **AntiLoiter** system
+-------------------------------------
+
+![System thumb](loiterer-res-thumb.jpg)
+
+
 
 LOITER DATASET
 --------------
@@ -11,7 +18,7 @@ The scene contains eight cameras, each with a 1920x1080 resolution.
 The footage shows actors moving across the area. They do not stop, turn around, or change their trajectory. 
 One of the actors acts like a loiterer. While the actor does not stop or show an unusual trajectory, they repeatedly appear on the different cameras.
 From this scene, facial features were extracted.
-These facial features were then grouped together using the Luigi-Indexing method descibed in [1,2,3]
+These facial features were then grouped together using the **Luigi** indexing method descibed in [1,2], and the visualized result of the loitering discovery system described in [3].
 This dataset contains the metadata of these features.
 
 ### Format Description

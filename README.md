@@ -56,6 +56,9 @@ Center X = Left + (Right - Left) / 2
 Center Y = Top + (Bottom - Top) / 2
 ```
 
+Here is a [tiny sample](dataset/tiny-sample.txt) of the dataset.
+
+
 ### Obtaining the Dataset
 
 If you want to use this dataset, please contact [j-liu (AT) ct.jp.nec.com](mailto:j-liu@ct.jp.nec.com).
